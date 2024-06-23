@@ -1,16 +1,14 @@
-## Hi there 👋
+## _Sejam bem vindos ao meu perfil_ ❤️‍🩹
 
-<!--
-**Lucas-TK/Lucas-TK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Lucas de Jesus Martins
 
-Here are some ideas to get you started:
+- Eu estou estudando na Alura
+- Estou tentando aprender a linguagem JavaScript
+- Estou utilizando esse perfil para projetar e compartilhar projetos para o meu professor
+- Eu nem sei o que estou fazendo aqui, eu sou de humanas e me colocaram em uma sala de exatas
+- Professor, me ajuda. Eu não sirvo pra isso 😿
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo pelo 📫 (por favor não entre)
+
+Martins.29082007@gmail.com
+@martins_tkz
